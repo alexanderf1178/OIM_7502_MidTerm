@@ -28,3 +28,7 @@ AutoViz includes the FixDQ class, that helps address data quality issues.
   2. Remove Duplicates: Detects and removes duplicate rows
   3. Correct Column Data Types: Ensures each column has the correct type based on its content
   4. Other Quality Issues: Flags and handles low-information or problematic columns.
+## Reference
+  1. https://pypi.org/project/autoviz/
+  2. https://github.com/AutoViML/AutoViz
+  3. Seshadri, Ram (2020). GitHub - AutoViML/AutoViz: Automatically Visualize any dataset, any size with a single line of code.
